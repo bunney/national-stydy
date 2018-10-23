@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "globby": "^8.0.1",
     "koa": "^2.5.3",
     "koa-useragent": "^1.1.0",
     "useragent": "^2.3.0"
